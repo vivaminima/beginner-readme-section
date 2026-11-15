@@ -2,6 +2,8 @@
 
 *Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
 
+<img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/beginner-readme-section.png" width="760" alt="beginner-readme-section: real output of the free version on a made-up sample">
+
 A Claude Code skill that writes a "New to this? Start here" section at the top of a README: who the project is for, the problem it solves, four steps, one sentence to type to Claude, and what comes back.
 
 ## New to this? Start here
